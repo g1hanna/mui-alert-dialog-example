@@ -1,12 +1,15 @@
 {
   "compilerOptions": {
-    "module": "ES2020",
+    "module": "NodeNext",
     "noImplicitAny": true,
     "removeComments": true,
     "preserveConstEnums": true,
     "sourceMap": true,
     "jsx": "react",
     "allowSyntheticDefaultImports": true,
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+    "moduleResolution": "nodenext",
     "typeRoots" : ["node_modules/@types", "src/types"],
   },
   "include": ["src/**/*.ts", "src/**/*.tsx", "src/delcarations.d.ts"],
