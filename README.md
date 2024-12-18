@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Getting Started with `mui-alert-dialog-example`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+\[This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\]
+
+### Author's Note
+
+After cloning or downloading the zip file for this repository, run `npm i --legacy-peer-deps` to install
+this project's dependencies. From there, run `npm run build` and `npm run start` to run this demo in a browser.
+Latest version of Chrome is recommended, but other modern browsers such as Edge and Firefox will work too.
+
+No other external tools besides the latest version of npm and node should
+be required to run this example on your local environment.
 
 ## Available Scripts
 
