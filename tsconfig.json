@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "ES2020",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "typeRoots" : ["node_modules/@types", "src/types"],
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/delcarations.d.ts"],
+}
